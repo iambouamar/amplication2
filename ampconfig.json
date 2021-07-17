@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.7.0",
+  "appInfo": {
+    "name": "Amplication2",
+    "description": "",
+    "version": "efg9oppj",
+    "id": "ckr74v4bv156171bs65cls3rxg",
+    "url": "https://app.amplication.com/ckr74v4bv156171bs65cls3rxg",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "test2",
+      "dbPassword": "root",
+      "dbPort": 5432,
+      "dbUser": "postgres",
+      "appId": "ckr74v4bv156171bs65cls3rxg"
+    }
+  }
+}
